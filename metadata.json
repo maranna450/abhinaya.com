@@ -1,0 +1,6 @@
+{
+  "name": "Abhinaya.com — Xerox, Printing & Digital Services",
+  "description": "Premium local Xerox, high-quality printing, scanning, lamination, spiral binding, and online digital document services in Chorunuru, Kudligi, Sandur, Karnataka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
